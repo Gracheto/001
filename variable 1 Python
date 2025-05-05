@@ -1,0 +1,9 @@
+# Programa para definir variables en Python
+nombre = 'Paco'
+edad = 28
+pais = 'España'
+
+# Imprimimos o mostramos en consola los valores de cada variable
+print('Nombre: ', nombre)
+print('Edad: ', edad)
+print('Pais: ', pais)
